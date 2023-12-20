@@ -37,6 +37,23 @@ android {
 
 dependencies {
 
+
+    // Mockito para pruebas unitarias
+    testImplementation ("org.mockito:mockito-core:3.11.2")
+    testImplementation ("org.mockito:mockito-android:3.11.2")
+
+
+    // Koin para Android
+    implementation ("io.insert-koin:koin-android:3.1.2")
+
+    // Dagger Hilt
+    implementation ("com.google.dagger:hilt-android:2.48")
+    implementation("org.testng:testng:6.9.6")
+    annotationProcessor ("com.google.dagger:hilt-android-compiler:2.44.2")
+    implementation ("androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03")
+    annotationProcessor ("androidx.hilt:hilt-compiler:1.1.0")
+
+
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.10.0")

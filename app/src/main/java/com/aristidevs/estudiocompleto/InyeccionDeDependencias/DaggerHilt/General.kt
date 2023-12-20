@@ -1,4 +1,4 @@
-package com.aristidevs.estudiocompleto.InyeccionDeDependencias
+package com.aristidevs.estudiocompleto.InyeccionDeDependencias.DaggerHilt
 
 //Inyeccion de dependencias
 
