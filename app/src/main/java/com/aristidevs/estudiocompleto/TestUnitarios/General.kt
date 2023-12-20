@@ -61,7 +61,16 @@ package com.aristidevs.estudiocompleto.TestUnitarios
 //es un framework de prueba para la interfaz de usuario.
 //sus caracteristicas incluyen:
 
-//
+//Interacciones basadas en el usuario: Diseñado para interactuar de la misma manera que lo haria un usuario real.
+//podes simular toques en la pantalla, deslizamientos, escrituras en campos de texto, etc.
+
+//Espera automatica: maneja automaticamente la espera para las transiciones de animaciones y otros eventos asincronos.
+
+//Sintaxis simple y legible: permite prubas faciles de entender.
+
+// Integracion con android studio: Esta integrado a android studio y es facil de configurar para tus proyectos.
+
+
 
 
 class General {

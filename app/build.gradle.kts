@@ -38,6 +38,7 @@ android {
 dependencies {
 
 
+    implementation("androidx.test.ext:junit-ktx:1.1.5")
     // Mockito para pruebas unitarias
     testImplementation ("org.mockito:mockito-core:3.11.2")
     testImplementation ("org.mockito:mockito-android:3.11.2")
