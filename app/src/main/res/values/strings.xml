@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EstudioCompleto</string>
+    <string name="title_activity_hello_world_compose">HelloWorldCompose</string>
 </resources>

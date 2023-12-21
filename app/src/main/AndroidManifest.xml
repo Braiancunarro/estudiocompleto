@@ -13,6 +13,11 @@
         android:theme="@style/Theme.EstudioCompleto"
         tools:targetApi="31">
         <activity
+            android:name=".Compose.HelloWorldCompose"
+            android:exported="false"
+            android:label="@string/title_activity_hello_world_compose"
+            android:theme="@style/Theme.EstudioCompleto" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
